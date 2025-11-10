@@ -2,7 +2,7 @@
 H.J homepage
 =============
 
-![My Image](qwer.jpg)
+![My Image]()
 
 # 학력
 ### 금오공과대학교
